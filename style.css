@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+
+:root {
+    --scroll: 0;
+}
+
+.first-section {
+    position: relative;
+}
+.first-section h1 {
+    position: absolute;
+    color: white;
+    width: 100%;
+    text-align: center;
+    margin-top: 3rem;
+}
+.first-section > img {
+    width: 100%;
+}
